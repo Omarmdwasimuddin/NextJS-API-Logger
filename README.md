@@ -1,4 +1,4 @@
-## NextJS API---> Logger
+## Next.js API: Logging and Error Handling
 
 #### src/lib/logger.ts for small project
 ```bash
